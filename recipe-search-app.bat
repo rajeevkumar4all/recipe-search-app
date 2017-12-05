@@ -1,1 +1,0 @@
-java -jar recipe-search-app-jar-with-dependencies.jar  au.com.recipe.search.controller.SearchRecipeController
